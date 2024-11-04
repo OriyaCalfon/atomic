@@ -80,7 +80,12 @@ const {onClearPosts}= useContext(PostContext)
   return (
     <header>
       <h1>
-        <span>⚛️</span>The Atomic Blog------------
+<<<<<<< HEAD
+        <span>⚛️</span>The Atomic Blog
+=======
+        <span>⚛️</span>The Atomic Blog......
+        <p>mmmmmmmmmmmmmmmmmmm</p>
+>>>>>>> fix/profile-page
       </h1>
       <div>
         <Results  />
